@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Self_introduction-Old-1/static/css/main.c3725851.css",
+    "main.js": "/Self_introduction-Old-1/static/js/main.87ac3e2e.js",
+    "static/media/蕭浩廷.pdf": "/Self_introduction-Old-1/static/media/蕭浩廷.54ce36674a2102fbb29b.pdf",
+    "static/media/cat3.png": "/Self_introduction-Old-1/static/media/cat3.76e5da29e4c2929bbf1d.png",
+    "static/media/fun.png": "/Self_introduction-Old-1/static/media/fun.756300f9b5d0c5df62ca.png",
+    "static/media/portfolio5.png": "/Self_introduction-Old-1/static/media/portfolio5.1dc6ecb6fcf45927a983.png",
+    "static/media/portfolio6.jpeg": "/Self_introduction-Old-1/static/media/portfolio6.e44ac5a095073fba0b32.jpeg",
+    "static/media/portfolio2.png": "/Self_introduction-Old-1/static/media/portfolio2.3d77f1dec63b27738d5e.png",
+    "static/media/portfolio1.png": "/Self_introduction-Old-1/static/media/portfolio1.5ae53f6d898502e9eb63.png",
+    "static/media/portfolio4.jpeg": "/Self_introduction-Old-1/static/media/portfolio4.ecd11219a27d1aafd24b.jpeg",
+    "static/media/portfolio3.jpeg": "/Self_introduction-Old-1/static/media/portfolio3.f23c8f2c678b099a848e.jpeg",
+    "index.html": "/Self_introduction-Old-1/index.html",
+    "main.c3725851.css.map": "/Self_introduction-Old-1/static/css/main.c3725851.css.map",
+    "main.87ac3e2e.js.map": "/Self_introduction-Old-1/static/js/main.87ac3e2e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3725851.css",
+    "static/js/main.87ac3e2e.js"
+  ]
+}
