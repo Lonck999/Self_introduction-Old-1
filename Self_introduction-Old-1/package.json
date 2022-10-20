@@ -2,7 +2,7 @@
   "name": "react-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.io/lonck999/Self_introduction-Old-1/tree/main/Self_introduction-Old-1",
+  "homepage": "https://github.com/lonck999/Self_introduction-Old-1/tree/main/Self_introduction-Old-1",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
