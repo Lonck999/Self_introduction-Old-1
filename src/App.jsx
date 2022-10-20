@@ -10,19 +10,19 @@ import Services from "./components/services/Services";
 import Testimonials from "./components/testimonials/Testimonials";
 
 const App = () => {
-    return(
-        <>
-            <Hearder/>
-            <Nav/>
-            <About/>
-            <Experience/>
-            <Services/>{/* 先不顯示等跟接案小組討論了再說 */}
-            <Portfolio/>
-            <Testimonials/> {/* 先不顯示等真的有人願意寫在說*/}
-            <Contact/>
-            <Footer/>
-        </>
-    )
-}
+  return (
+    <>
+      <Hearder />
+      <Nav />
+      <About />
+      <Experience />
+      {/* <Services/>先不顯示等跟接案小組討論了再說 */}
+      <Portfolio />
+      {/* <Testimonials/> 先不顯示等真的有人願意寫在說 */}
+      <Contact />
+      <Footer />
+    </>
+  );
+};
 
-export default App
+export default App;
